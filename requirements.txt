@@ -1,0 +1,12 @@
+streamlit
+pandas
+feedparser
+tqdm
+streamlit
+pandas
+feedparser
+requests
+arxiv
+scikit-learn
+sentence-transformers
+faiss-cpu
