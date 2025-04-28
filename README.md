@@ -95,7 +95,7 @@ pip install -r requirements.txt
 - ### Run the Application
 Launch the Streamlit app by running the following command:
 ```
-streamlit run final_app.py
+streamlit run main_app.py
 ```
 
 
