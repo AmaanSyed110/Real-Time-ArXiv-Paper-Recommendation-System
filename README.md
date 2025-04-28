@@ -51,6 +51,10 @@ The **Real Time ArXiv Paper Recommendation System** is a cutting-edge tool desig
 - **NumPy**: For numerical computations in embeddings.
 
 
+## Dataset Description
+The dataset is primarily based on ``arxiv_metadata.csv``, a file containing metadata of arXiv papers fetched via the [Kaggle](https://www.kaggle.com/datasets/Cornell-University/arxiv). It includes fields such as paper titles, abstracts, authors, categories, and publication dates, updated dynamically with user-specified queries (e.g., "machine learning"). The dataset supports up to 200 results per API call, with duplicates removed using paper IDs, and is preprocessed for embedding generation with ``all-MiniLM-L6-v2``.
+
+
 ## Example Workflow
 - **Update Dataset**: Enter a query like "machine learning" and fetch 50 new papers to append to arxiv_metadata.csv.
 
