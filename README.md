@@ -3,6 +3,10 @@
 ## Overview
 The **Real Time ArXiv Paper Recommendation System** is a cutting-edge tool designed to streamline literature discovery within the arXiv repository. It employs semantic search powered by all-MiniLM-L6-v2 and efficient vector search with FAISS to deliver contextually relevant paper recommendations. Built with Streamlit, it offers an intuitive interface for researchers, students, and academics to explore preprints effectively.
 
+## Demo Video
+[ArXiv_Paper_Recommendation_System.webm](https://github.com/user-attachments/assets/3a1b3e1a-4cc6-4b55-b302-fd85ef5e69b4)
+
+
 ## Features
 
 - **Semantic Recommendations**: Captures contextual meaning using ``all-MiniLM-L6-v2`` embeddings, overcoming keyword limitations.
